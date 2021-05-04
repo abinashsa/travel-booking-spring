@@ -4,4 +4,5 @@ metadata:
   name: travel-booking-springboot
 data:
   application.properties: |-
-    spring.datasource.url=jdbc:postgresql://postgresql:3306/postgresdb
+    spring.datasource.url=jdbc:postgresql://postgresql:3306/sampledb
+    
